@@ -1,2 +1,2 @@
-# Ola mundo
- peimeiro repositório versionado cuso git e github
+# Olá, mundo
+ peimeiro repositório versionado curso git e github
