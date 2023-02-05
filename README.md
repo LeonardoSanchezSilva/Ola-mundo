@@ -1,2 +1,2 @@
 # Olá, mundo
- peimeiro repositório versionado curso git e github
+ Primeiro repositório versionado curso git e github
